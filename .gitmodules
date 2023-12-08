@@ -1,0 +1,5 @@
+[submodule "frontend/myapp"]
+	path = frontend/myapp
+	url = https://github.com/Isam-tfares/Potato-Disease-Classification-Web-Application/
+
+
